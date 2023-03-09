@@ -1,6 +1,7 @@
-./fhvhv/
-./venv/
 ./zones/
 *.parquet
 *.gz
 .idea
+/fhvhv/
+/venv/
+/zones/
